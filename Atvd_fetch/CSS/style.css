@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Orienta", sans-serif;
+}
+
+body {
+    padding: 40px;
+    background-color: #f4f6f8;
+    color: #1a1a1a;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 24px;
+    color: #1a1a1a;
+    text-align: center;
+}
